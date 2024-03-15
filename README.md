@@ -8,5 +8,7 @@ But the reason most pepole ddos is revenge or in some cases ddos wars
 ### Install
 
 git clone https://github.com/shshssss/DDoS.git
+
 cd DDos
+
 Python3 Main.py
