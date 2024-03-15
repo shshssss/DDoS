@@ -1,6 +1,6 @@
-ipaddress = input("Hello sir, whould you like to DDoS any ips tp day. >")
+ipaddress = input("Hello sir, whould you like to DDoS any ips to day. >")
 
-print("Ok sir good choice the port i will be useing is port 80 on " + ipaddress + "Hope you are ok with that")
+print("[bold]Ok sir good choice the port i will be useing is port 80 on [/bold]" + ipaddress + "[bold] Hope you are ok with that[/bold]")
 
 Duration = input("And how long will you like this to last sir >")
 
