@@ -11,4 +11,4 @@ git clone https://github.com/shshssss/DDoS.git
 
 cd DDoS
 
-Python3 Main.py
+python3 Main.py
